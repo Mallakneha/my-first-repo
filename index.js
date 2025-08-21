@@ -3,7 +3,7 @@ function sayHello() {
     alert("Hello from JavaScript! 🚀");
     console.log("Button clicked! This is logged in the console.");
     console.log("Button clicked! This is logged in the console 222.");
-    
+    console.log("my new log");
     
     
 }
